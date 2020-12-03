@@ -1,0 +1,14 @@
+{
+  "name": "airfair-scripts",
+  "version": "1.0.0",
+  "description": "Airfair useful scripts",
+  "main": "index.js",
+  "author": "Thomas LEDUC",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "ora": "^5.1.0"
+  }
+}
